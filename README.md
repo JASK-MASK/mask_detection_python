@@ -27,3 +27,4 @@ otherwise you will not work with the detector.
 
 4. Be sure you use download or clone the repository in a same file or directory, otherwise you need to go ahead and change the path for each opened file.
 
+5. I was inspired on Adrian Rosenbrocks courses.
